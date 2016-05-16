@@ -1,0 +1,30 @@
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+temp/
+obj/
+
+# ===================== #
+# MonoDevelop generated #
+# ===================== #
+*.userprefs
+*.csproj
+*.sln
+
+# ================================= #
+# Unity for iPhone / iPad generated #
+# ================================= #
+ScavengerHunt_iOS
